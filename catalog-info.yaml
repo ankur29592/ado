@@ -4,7 +4,7 @@ metadata:
   name: ado
   annotations:
     backstage.io/kubernetes-id: ado
-    dev.azure.com/project-repo: T2R/T2R
+    devops.jio.com/project-repo: T2R/T2R
 spec:
   type: service
   lifecycle: unknown
